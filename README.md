@@ -6,6 +6,6 @@
 <body>
   
   <br>
-  <h1> PhysicsInformedNeuralNet</h1>
+  <h3> PhysicsInformedNeuralNet</h3>
 </body>
 </html>
