@@ -8,7 +8,10 @@
   <br>
   <h2>     PhysicsInformedNeuralNet</h2>
   <br>
-  <p>jI have modified the PINN code and practice the solution of burgers equation using PINN .</p>
+  <p>I have tried the maziarraisi pinn navier_stokes 2d equation in tensorflow2.17.0 version . And also practiced the burgers equation of my department seniors code.</p>
+  </br>
+  <p>Here is the link of maziarraisi github link:</p>
   <a href="https://github.com/maziarraissi/PINNs">maziarraissi_PINN </a>
+  
 </body>
 </html>
