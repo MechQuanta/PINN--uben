@@ -8,7 +8,7 @@
   <br>
   <h2>     PhysicsInformedNeuralNet</h2>
   <br>
-  <p>jgenerngerngerngenjengurhtgnrtjbnbnrbnribnormbldkmbobn
-    vekvmermrtbkmngrgrgirmgrjmg </p>
+  <p>jI have modified the PINN code and practice the solution of burgers equation using PINN .</p>
+  <a href="https://github.com/maziarraissi/PINNs">maziarraissi_PINN </a>
 </body>
 </html>
