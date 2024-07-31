@@ -2,9 +2,10 @@
 <html>
 <head>
   <meta name = "viewport" content = "width=device=width" />
-  <title>Something</title>
 </head>
 <body>
-  <p>wjniergerbgeirbvierbgiernv</p>
+  
+  <p># This is a practice code of PhysicsInformedNeuralNet</p>
+  <br>
 </body>
 </html>
