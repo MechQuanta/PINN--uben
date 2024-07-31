@@ -81,3 +81,6 @@ class PhysicsInformedNN:
         t_star = tf.convert_to_tensor(t_star,dtype=tf.float32)
         u_star , v_star , p_star , _ , _ = self.net_NS(x_star,y_star,t_star)
 
+
+
+
