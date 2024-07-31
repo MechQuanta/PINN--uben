@@ -7,8 +7,10 @@
   
   <br>
   <h2>     PhysicsInformedNeuralNet</h2>
-  <img src="https://www.researchgate.net/publication/335990167/figure/fig1/AS:806502679982080@1569296631121/Schematic-of-a-physics-informed-neural-network-PINN-where-the-loss-function-of-PINN.ppm"/>
+  <img
+    src="https://www.researchgate.net/publication/335990167/figure/fig1/AS:806502679982080@1569296631121/Schematic-of-a-physics-informed-neural-network-PINN-where-the-loss-function-of-PINN.ppm"/>
   <br>
+  
   <p>I have tried the maziarraisi pinn navier_stokes 2d equation in tensorflow2.17.0 version . And also practiced the burgers equation of my department seniors code.</p>
   </br>
   <p>Here is the link of maziarraisi github link:</p>
