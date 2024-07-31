@@ -5,8 +5,7 @@
 </head>
 <body>
   
-  <p> This is a practice code of PhysicsInformedNeuralNet</p>
   <br>
-  <h1> PhysicsInformedNN</h1>
+  <h1> PhysicsInformedNeuralNet</h1>
 </body>
 </html>
